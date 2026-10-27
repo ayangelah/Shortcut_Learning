@@ -1,0 +1,4 @@
+# Keep the repository limited to the notebook for now.
+*
+!/.gitignore
+!/Shortcut_Learning.ipynb
